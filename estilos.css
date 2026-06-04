@@ -15,7 +15,7 @@ body{
 header{
     width: 100%;
     height: 400px;
-    background: url("../imagenes/portad.webp");
+    background-image: url("imagenes/portad.webp");
     background-position: center center;
     background-size: cover;
     background:red;
