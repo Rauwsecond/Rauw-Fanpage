@@ -18,6 +18,7 @@ header{
     background: url("../imagenes/portad.webp");
     background-position: center center;
     background-size: cover;
+    background:red;
 }
 
 main .perfil{
